@@ -1,0 +1,5 @@
+MySQL-python==1.2.5
+SQLAlchemy==0.9.8
+inflect==0.2.5
+sqlacodegen==1.1.5
+wsgiref==0.1.2
